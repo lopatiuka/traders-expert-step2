@@ -109,6 +109,13 @@ body, section {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 16px;
   font-weight: 500;
+  transition-property: background-color;
+  transition-delay: 0.2s;
+  transition-duration: 0.2s;
+}
+.header .color .container .form form input[type=submit]:hover {
+  background-color: #ac8f1c;
+  cursor: pointer;
 }
 .header .color .container .form form .checkboxes {
   display: flex;
