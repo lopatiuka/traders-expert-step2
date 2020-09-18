@@ -350,6 +350,7 @@ body, section {
   font-weight: 650;
   font-size: 18px;
   margin-top: 30px;
+  text-decoration: none;
   transition-property: background-color, color;
   transition-delay: 0.2s;
   transition-duration: 0.2s;
